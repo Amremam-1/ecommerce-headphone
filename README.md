@@ -30,7 +30,6 @@ https://ecommerce-headphone-sigma.vercel.app/
 
 ## 📚 What I Learned
 
-- Advanced React best practices
 - Scalable folder and file structure
 - Context API state management
 - Next.js rendering techniques
@@ -41,7 +40,7 @@ https://ecommerce-headphone-sigma.vercel.app/
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Amremam-1/ecommerce-headphone.git>
 
 cd ecommerce-project
 
