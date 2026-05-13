@@ -9,7 +9,6 @@ https://ecommerce-headphone-sigma.vercel.app/
 ## 🛠️ Tech Stack
 
 - Next.js
-- React.js
 - Tailwind CSS
 - Sanity CMS
 - Stripe
