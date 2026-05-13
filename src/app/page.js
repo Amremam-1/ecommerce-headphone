@@ -1,6 +1,8 @@
 import { client } from "@/sanity/lib/client"
 import { HeroBanner, FooterBanner, ProductCart } from "../../components"
 
+export const revalidate = 0
+
 const Home = async () => {
   const products = await client.fetch('*[_type == "product"]')
   const bannerData = await client.fetch('*[_type == "banner"]')
