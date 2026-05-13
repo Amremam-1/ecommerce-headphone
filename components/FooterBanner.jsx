@@ -39,7 +39,7 @@ const FooterBanner = ({
         </div>
 
         {/* Right */}
-        <div className="flex flex-col">
+        <div className="flex flex-col z-10">
           <p className="text-lg text-[#111827] font-medium tracking-widest">
             {smallText}
           </p>
